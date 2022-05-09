@@ -1,18 +1,24 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
-  <head>
+    <head>
 
-    <title>Das Spiel</title>
+<title>Professioneller Fußball</title>
 
-  </head>
 
-  <body>
-    <div class="row">
+
+    </head>
+    <body>
       <div class="col-sm-4">
-        <h1>Das Spiel</h1>
-      </div>
-    </div>
-    <h3>Regeln</h3>
+<h1>Professioneller Fußball</h1>
+</div>
 
-  </body>
+<h2>The Big Five</h2>
+<h2>Trophäen</h2>
+<h2>bekannte Clubs</h2>
+<h2>bekannte Spieler</h2>
+
+
+
+    </body>
 </html>
+
