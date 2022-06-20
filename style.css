@@ -1,8 +1,16 @@
-      #headline{
-        font-family: Garamond;
-        font-weight: normal;
-        margin-bottom: 4em;
-        text-align: center;
-        font-size: 350%
+#headline{
+  font-family: Garamond;
+  font-weight: normal;
+  text-align: center;
+  font-size: 700%;
+  color: white;
+  background-color: black;
+}
 
-    }
+#links{
+  font-family: Garamond;
+  font-weight: normal;
+  font-size: 200%;
+  color: black;
+
+}
